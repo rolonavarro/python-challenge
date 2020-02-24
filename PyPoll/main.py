@@ -32,3 +32,8 @@ with open(file) as csvpoll:
       
     if candidate == "O'Tooley":
       ocount = ocount + 1
+      
+   candidatevotes = ["Khan": kcount,  "Correy": kcount, "Li": lcount, "O'Tooley": ocount]
+   
+    for candidate, value in candidatevotes.items()
+      if value
