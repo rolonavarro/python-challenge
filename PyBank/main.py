@@ -1,5 +1,5 @@
-#python challenge
-#import modules
+# PyBank Python Challenge
+# import modules
 import os 
 import csv
 
@@ -44,7 +44,6 @@ with open(csvpath) as csvfile:
         print(row)
 
 # Print Results
-
 print("Financial Analysis")
 print("-----------------------")
 # Total number of months included in the data set
